@@ -1,2 +1,2 @@
-# WorldTimeApp
- A flutter project to show time in different Timezone using worldtimeapi.org API
+# World Time App
+ Flutter Project to show time for different timezones. Created using WorldTimeApi.org API
